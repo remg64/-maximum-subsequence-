@@ -12,8 +12,7 @@ Parallel maximum subsequence  in C using OpenMP
 ### Execution
 `./maximum_subsequence input_file`
 
-## Code example
-The following example use the classic game rules.
+## Example
 
 ### Input
 ```
